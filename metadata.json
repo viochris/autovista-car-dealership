@@ -1,0 +1,6 @@
+{
+  "name": "AutoVista Motors - Multi-Page Showroom",
+  "description": "Premium multi-brand automotive dealership showcase featuring Toyota, Honda, and Tesla vehicles with detailed specs, showroom tours, financing offers, and test drive reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
