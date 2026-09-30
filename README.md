@@ -182,12 +182,6 @@ The FAQ page keeps its full question list in a component state array, and derive
 
 ---
 
-## Known Issues
-
-In the interest of accurate documentation, one piece of leftover copy was not updated when the vehicle lineup grew from its original planned 6 models to the current 24, the footer's disclaimer section still describes the lineup as a "curated six-vehicle portfolio" and lists only 6 example models by name. This is stale text from an earlier draft of the project rather than an accurate description of what the site now contains, and would be a reasonable thing to update if the project is revisited.
-
----
-
 ## License
 
 This project is available for personal reference and learning purposes.
