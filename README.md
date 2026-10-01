@@ -18,7 +18,7 @@
 
 * Every vehicle shown is a real, correctly named model from a real manufacturer, but AutoVista Motors itself has no affiliation with, endorsement from, or connection to Toyota, Honda, Mercedes Benz, BMW, Mitsubishi, Hyundai, Tesla, BYD, MINI, Volkswagen, or Porsche. All vehicle names, trademarks, and badges belong to their respective owners.
 * The Test Drive booking form is entirely cosmetic. Submitting it does not send an email, hit a server, or notify anyone. It only shows an in page confirmation for demonstration purposes.
-* The showroom address, phone numbers, email, staff names, leadership team, testimonials, offers, interest rate, and company history shown on the site are all invented for the purposes of this project.
+* The showroom address, phone numbers, email, staff names, leadership team, testimonials, offers, interest rate, and company history shown on the site are all invented for the purposes of this project. If any contact detail here happens to match a real one, it is a coincidence. Please open an issue and I will change it.
 * Photographs come from two sources. Six vehicles use photographs from Wikimedia Commons under Creative Commons licensing, with the source and license documented alongside each entry in the code. The remaining vehicles, the team portraits, and the testimonial avatars use free license stock photography from Unsplash. The [Known Limitations](#known-limitations) section explains what that means for photo accuracy.
 
 The entire point of this project is the frontend, the color palette, the layout, and the interaction design, not the business idea behind it.
